@@ -17,8 +17,8 @@ This is a Flask-based web application that provides user **registration**, **log
 
 ## 📂 Folder Structure
 
-Rover-DIP3/
-├── apps/
+Rover-DIP3/                                --Main Project  Directory
+├── apps/                                  --app folder  
 │ ├── authentication/
 │ ├── dashboard/
 │ ├── home/
@@ -28,7 +28,7 @@ Rover-DIP3/
 │ ├── templates/
 │ ├── templatetags/
 │ └── transform/
-├── core/
+├── core/                              ---main Project 
 ├── media/
 ├── staticfiles/
 ├── venv/

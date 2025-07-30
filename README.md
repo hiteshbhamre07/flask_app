@@ -37,12 +37,6 @@ Rover-DIP3/
 ├── .gitignore
 └── README.md
 
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Setup Instructions
 
 ### ✅ 1. Clone the repository
